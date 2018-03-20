@@ -1,14 +1,20 @@
-# ZkeEcoAccessPackages
-# ZkeEcoAccessPackages
+
 ZKTECO TF1600 packages with ZKAccess
 ===
 Here more interesting moments.
+
 Other packager are randon letters and numbers
+
 № Package |  Type of action
+
 67 - 168  |  HandShake
+
 324-328   |  Change password  « admin» to  «»
+
 470-480   |  Sync Time
+
 600-628   |  Get events
+
 724 - 817 |  sync all data
 
 77 package:
